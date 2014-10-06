@@ -1,0 +1,22 @@
+{
+  "name": "stuwebfk_yuyou",
+  "version": "0.0.2",
+  "description": "stuwebfk ========",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yy18314/stuwebfk.git"
+  },
+  "author": "Yuyou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yy18314/stuwebfk/issues"
+  },
+  "homepage": "https://github.com/yy18314/stuwebfk"
+}
