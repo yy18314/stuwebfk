@@ -1,6 +1,6 @@
 {
   "name": "stuwebfk_yuyou",
-  "version": "0.0.6",
+  "version": "0.0.5",
   "description": "stuwebfk ========",
   "main": "index.js",
   "directories": {
